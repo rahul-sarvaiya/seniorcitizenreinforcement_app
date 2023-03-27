@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795410162017",
+    "project_id": "seniorcitizen-e9078",
+    "storage_bucket": "seniorcitizen-e9078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795410162017:android:58fafa4b894833b74e6520",
+        "android_client_info": {
+          "package_name": "com.example.seniorcitizen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795410162017-vif8g5gla5l0h3cv6hihee3cefm73uge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn7pvLPyt66ifBuX174RdJoNM3eTmYLMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795410162017-vif8g5gla5l0h3cv6hihee3cefm73uge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
